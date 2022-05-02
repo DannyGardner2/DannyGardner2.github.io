@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(46, 46, 46);
 }
 
 code {
@@ -13,14 +14,15 @@ code {
 }
 
 .nav-container {
-  background-color: aqua;
-  position: fixed;
+  /* background-color: rgb(160, 160, 160); */
+  /* position: fixed; */
+  margin-top: 50px;
   width: 100%;
 }
 
 .nav-box {
   min-height: 80px;
-  max-width: 1600px;
+  max-width: 1400px;
   display: flex;
   justify-content: space-between;
   padding-left: 5%;
@@ -35,6 +37,13 @@ code {
   box-sizing: inherit;
 }
 
+.nav-right img {
+  width: 50px;
+  margin-left: 20px;
+}
+
+.nav-right img:hover {
+}
 
 .nav-items {
   position: relative;
@@ -52,4 +61,64 @@ code {
   display: list-item;
   position: relative;
   padding: 0 26px;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+li a:hover {
+  color: rgb(201, 83, 5);
+}
+
+.header-container {
+  width: 1400px;
+  /* background-image: url(img/technology-background-header-1120x389.png); */
+  height: 400px;
+  margin: 0 auto;
+  color: rgb(233, 233, 233);
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  line-height: 1px;
+}
+
+.header-words {
+  width: 800px;
+}
+
+.header-words h3 {
+  font-size: 50px;
+}
+
+.header-words span {
+  color: rgb(201, 83, 5);
+}
+
+.header-words a {
+  font-size: 30px;
+}
+
+.project-container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+#game1 {
+  background-image: url(img/2048game.jpg);
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  box-shadow: 5px 5px 6px rgb(85, 85, 85);
+}
+
+#game1:hover {
+  width: 300px;
+  height: 300px;
+  background-image: url(img/2048gameAnim.gif);
+  transition: .1s ease;
+  background-size: cover;
+  border-radius: 15px;
 }

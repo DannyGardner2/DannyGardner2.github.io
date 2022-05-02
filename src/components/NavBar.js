@@ -1,4 +1,8 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+import github from '../img/github_icon.png'
+import linkedin from '../img/linkedin_icon.png'
+import twitter from '../img/twitter_icon.png'
 
 function NavBar() {
     return (
@@ -8,13 +12,17 @@ function NavBar() {
                 <div className='logo'></div>
                     <div className='nav-items'>
                         <ul>
-                            <li>home</li>
-                            <li>about</li>
-                            <li>stuff</li>
+                            <li><a href='#'>Home</a></li>
+                            <li><a href='#'>about</a></li>
+                            <li><a href='#'>stuff</a></li>
                         </ul>
                     </div>
                 </div>
-                <div className='nav-right'>right stuff</div>
+                <div className='nav-right'>
+                    <img src={github}></img>
+                    <img src={linkedin}></img>
+                    <img src={twitter}></img>
+                </div>
 
             </div>
         </div>
