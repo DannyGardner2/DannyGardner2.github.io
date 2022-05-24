@@ -1,4 +1,5 @@
 import React from 'react'
+import Danny from '../img/dantitle3.jpg'
 
 function Header() {
   return (

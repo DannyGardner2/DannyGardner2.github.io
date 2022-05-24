@@ -13,8 +13,8 @@ function NavBar() {
                     <div className='nav-items'>
                         <ul>
                         <Link to="/"><li><a href='#'>Home</a></li></Link>
-                        <Link to="/about"><li><a href='#'>about</a></li></Link>
-                        <Link to="/stuff"><li><a href='#'>stuff</a></li></Link>
+                        <Link to="/about"><li><a href='#'>About Me</a></li></Link>
+                        <Link to="/stuff"><li><a href='#'>Stuff I've Made</a></li></Link>
                         </ul>
                     </div>
                 </div>

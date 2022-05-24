@@ -13,6 +13,12 @@ code {
     monospace;
 }
 
+.about-container {
+  width: 900px;
+  margin: 0 auto;
+  color: white;
+}
+
 .nav-container {
   /* background-color: rgb(160, 160, 160); */
   /* position: fixed; */
@@ -41,9 +47,6 @@ code {
   width: 50px;
   margin-left: 20px;
   filter: brightness(0%);
-}
-
-.nav-right img:hover {
 }
 
 .nav-items {
@@ -102,24 +105,39 @@ li a:hover {
   font-size: 30px;
 }
 
+.main {
+  padding-top: 50px;
+}
+
+.card-text {
+  align-items: right;
+  align-content: right;
+  padding-left: 60px;
+  width: 500px;
+}
+
+.card-title, .tech-used {
+  color: rgb(201, 83, 5);
+}
+
+.card-body {
+  color: white;
+}
+
 .project-container {
   width: 1200px;
   margin: 0 auto;
 }
 
-#game1 {
-  background-image: url(img/2048game.jpg);
+.project-card {
+  width: 900px;
+  background-color: rgb(27, 27, 27);
+  display: flex;
+  margin-top: 20px;
+}
+
+.project-thumbnail img {
   width: 250px;
   height: 250px;
   background-size: cover;
-  box-shadow: 5px 5px 6px rgb(85, 85, 85);
-}
-
-#game1:hover {
-  width: 300px;
-  height: 300px;
-  background-image: url(img/2048gameAnim.gif);
-  transition: .1s ease;
-  background-size: cover;
-  border-radius: 15px;
 }
