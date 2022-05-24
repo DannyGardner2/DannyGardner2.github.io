@@ -12,9 +12,9 @@ function NavBar() {
                 <div className='logo'></div>
                     <div className='nav-items'>
                         <ul>
-                            <li><a href='#'>Home</a></li>
-                            <li><a href='#'>about</a></li>
-                            <li><a href='#'>stuff</a></li>
+                        <Link to="/"><li><a href='#'>Home</a></li></Link>
+                        <Link to="/about"><li><a href='#'>about</a></li></Link>
+                        <Link to="/stuff"><li><a href='#'>stuff</a></li></Link>
                         </ul>
                     </div>
                 </div>

@@ -40,6 +40,7 @@ code {
 .nav-right img {
   width: 50px;
   margin-left: 20px;
+  filter: brightness(0%);
 }
 
 .nav-right img:hover {
