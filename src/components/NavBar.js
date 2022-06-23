@@ -19,9 +19,9 @@ function NavBar() {
                     </div>
                 </div>
                 <div className='nav-right'>
-                    <img src={github}></img>
-                    <img src={linkedin}></img>
-                    <img src={twitter}></img>
+                    <a href='https://github.com/DannyGardner2' target='_blank'><img src={github}></img></a>
+                    <a href='https://www.linkedin.com/in/dannygardner/' target='_blank'><img src={linkedin}></img></a>
+                    {/* <a href='https://github.com/DannyGardner2' target='_blank'> <img src={twitter}></img></a> */}
                 </div>
 
             </div>
