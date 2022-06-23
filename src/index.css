@@ -49,6 +49,10 @@ code {
   filter: brightness(0%);
 }
 
+.nav-right img:hover {
+  width: 55px;
+}
+
 .nav-items {
   position: relative;
   display: block;
@@ -59,6 +63,11 @@ code {
   display: flex;
   margin: 0;
   padding: 0;
+}
+
+.nav-items a {
+  text-decoration: none;
+  font-size: 25px;
 }
 
 .nav-items li {
@@ -134,6 +143,10 @@ li a:hover {
   background-color: rgb(27, 27, 27);
   display: flex;
   margin-top: 20px;
+}
+
+.project-card a {
+  text-decoration: none;
 }
 
 .project-thumbnail img {
