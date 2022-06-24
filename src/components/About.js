@@ -1,4 +1,5 @@
 import React from 'react'
+import Resume from '../img/Daniel Gardner Resume.pdf'
 
 function About() {
     return (
@@ -8,6 +9,11 @@ function About() {
                 If I don't know how to do something, I can easily adapt and learn new skills. I love to
                 surprise people by showing them new things they didn't know were possible.
             </p>
+            <h2>Download my resume</h2>
+            <a href={Resume} download>Download PDF</a><br />
+            <a href={Resume} target="_blank">View PDF</a>
+            <h2>Contact</h2>
+            <a href='mailto:dannygardnercg@gmail.com'>dannygardnercg@gmail.com</a>
         </div>
     )
 }

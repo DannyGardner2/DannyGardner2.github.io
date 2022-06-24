@@ -19,6 +19,15 @@ code {
   color: white;
 }
 
+.about-container a {
+  color:rgb(182, 182, 182);
+  text-decoration: none;
+}
+
+.about-container a:hover {
+  color: white;
+}
+
 .nav-container {
   /* background-color: rgb(160, 160, 160); */
   /* position: fixed; */
@@ -55,7 +64,6 @@ code {
 
 .nav-items {
   position: relative;
-  display: block;
 }
 
 .nav-items ul {
@@ -71,8 +79,6 @@ code {
 }
 
 .nav-items li {
-  display: list-item;
-  position: relative;
   padding: 0 26px;
 }
 
@@ -84,6 +90,7 @@ li a {
 
 li a:hover {
   color: rgb(201, 83, 5);
+
 }
 
 .header-container {

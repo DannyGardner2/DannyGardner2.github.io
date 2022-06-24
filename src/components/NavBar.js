@@ -9,12 +9,12 @@ function NavBar() {
         <div className='nav-container'>
             <div className='nav-box'>
                 <div className='nav-left'>
-                <div className='logo'></div>
+                    <div className='logo'></div>
                     <div className='nav-items'>
                         <ul>
-                        <Link to="/"><li><a href='#'>Home</a></li></Link>
-                        <Link to="/about"><li><a href='#'>About Me</a></li></Link>
-                        <Link to="/stuff"><li><a href='#'>Stuff I've Made</a></li></Link>
+                            <li><Link to="/"><a href='#'>Home</a></Link></li>
+                           <li> <Link to="/about"><a href='#'>About Me/Contact</a></Link></li>
+                            <li><Link to="/stuff"><a href='#'>Stuff I've Made</a></Link></li>
                         </ul>
                     </div>
                 </div>
