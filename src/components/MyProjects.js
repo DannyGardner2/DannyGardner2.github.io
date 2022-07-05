@@ -29,7 +29,7 @@ function MyProjects() {
       title="F2P games"
       body="This is one of my first apps using an API. I didn't complete all of the functionality, however it was just a 
       quick project for class. I learned a lot about what you can do with an API. I really liked how the colors turned out."
-      tech=""
+      tech="React, html, css, javascript, Restful API"
       />
 
     </div>
