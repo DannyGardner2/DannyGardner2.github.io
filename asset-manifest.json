@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DannyGardner2.github.io/static/css/main.59fe1b7b.css",
-    "main.js": "/DannyGardner2.github.io/static/js/main.d84d1a25.js",
-    "static/js/787.1ed0c42c.chunk.js": "/DannyGardner2.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/f2pgames.jpg": "/DannyGardner2.github.io/static/media/f2pgames.970f7efb2173badecc4a.jpg",
-    "static/media/modpack.jpg": "/DannyGardner2.github.io/static/media/modpack.61264328aac7be7abb13.jpg",
-    "static/media/dantitle3.jpg": "/DannyGardner2.github.io/static/media/dantitle3.b1b7f83f0ce66835c593.jpg",
-    "static/media/2048game.jpg": "/DannyGardner2.github.io/static/media/2048game.f442ec9c956c3446c4da.jpg",
-    "static/media/Daniel Gardner Resume.pdf": "/DannyGardner2.github.io/static/media/Daniel Gardner Resume.00ed926bcfb3a1f1991f.pdf",
-    "index.html": "/DannyGardner2.github.io/index.html",
-    "main.59fe1b7b.css.map": "/DannyGardner2.github.io/static/css/main.59fe1b7b.css.map",
-    "main.d84d1a25.js.map": "/DannyGardner2.github.io/static/js/main.d84d1a25.js.map",
-    "787.1ed0c42c.chunk.js.map": "/DannyGardner2.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/MyPortfolio/static/css/main.59fe1b7b.css",
+    "main.js": "/MyPortfolio/static/js/main.5ee8c545.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/f2pgames.jpg": "/MyPortfolio/static/media/f2pgames.970f7efb2173badecc4a.jpg",
+    "static/media/modpack.jpg": "/MyPortfolio/static/media/modpack.61264328aac7be7abb13.jpg",
+    "static/media/dantitle3.jpg": "/MyPortfolio/static/media/dantitle3.b1b7f83f0ce66835c593.jpg",
+    "static/media/2048game.jpg": "/MyPortfolio/static/media/2048game.f442ec9c956c3446c4da.jpg",
+    "static/media/Daniel Gardner Resume.pdf": "/MyPortfolio/static/media/Daniel Gardner Resume.00ed926bcfb3a1f1991f.pdf",
+    "index.html": "/MyPortfolio/index.html",
+    "main.59fe1b7b.css.map": "/MyPortfolio/static/css/main.59fe1b7b.css.map",
+    "main.5ee8c545.js.map": "/MyPortfolio/static/js/main.5ee8c545.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59fe1b7b.css",
-    "static/js/main.d84d1a25.js"
+    "static/js/main.5ee8c545.js"
   ]
 }
