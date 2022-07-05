@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.59fe1b7b.css",
-    "main.js": "/static/js/main.f1eb0aca.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/f2pgames.jpg": "/static/media/f2pgames.970f7efb2173badecc4a.jpg",
-    "static/media/modpack.jpg": "/static/media/modpack.61264328aac7be7abb13.jpg",
-    "static/media/dantitle3.jpg": "/static/media/dantitle3.b1b7f83f0ce66835c593.jpg",
-    "static/media/2048game.jpg": "/static/media/2048game.f442ec9c956c3446c4da.jpg",
-    "static/media/Daniel Gardner Resume.pdf": "/static/media/Daniel Gardner Resume.00ed926bcfb3a1f1991f.pdf",
-    "index.html": "/index.html",
-    "main.59fe1b7b.css.map": "/static/css/main.59fe1b7b.css.map",
-    "main.f1eb0aca.js.map": "/static/js/main.f1eb0aca.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/DannyGardner2.github.io/static/css/main.59fe1b7b.css",
+    "main.js": "/DannyGardner2.github.io/static/js/main.d84d1a25.js",
+    "static/js/787.1ed0c42c.chunk.js": "/DannyGardner2.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/f2pgames.jpg": "/DannyGardner2.github.io/static/media/f2pgames.970f7efb2173badecc4a.jpg",
+    "static/media/modpack.jpg": "/DannyGardner2.github.io/static/media/modpack.61264328aac7be7abb13.jpg",
+    "static/media/dantitle3.jpg": "/DannyGardner2.github.io/static/media/dantitle3.b1b7f83f0ce66835c593.jpg",
+    "static/media/2048game.jpg": "/DannyGardner2.github.io/static/media/2048game.f442ec9c956c3446c4da.jpg",
+    "static/media/Daniel Gardner Resume.pdf": "/DannyGardner2.github.io/static/media/Daniel Gardner Resume.00ed926bcfb3a1f1991f.pdf",
+    "index.html": "/DannyGardner2.github.io/index.html",
+    "main.59fe1b7b.css.map": "/DannyGardner2.github.io/static/css/main.59fe1b7b.css.map",
+    "main.d84d1a25.js.map": "/DannyGardner2.github.io/static/js/main.d84d1a25.js.map",
+    "787.1ed0c42c.chunk.js.map": "/DannyGardner2.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59fe1b7b.css",
-    "static/js/main.f1eb0aca.js"
+    "static/js/main.d84d1a25.js"
   ]
 }
